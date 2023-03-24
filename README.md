@@ -1,2 +1,2 @@
 # repositorio-N2
-entrega do projeto
+entrega do projeto no git/github
